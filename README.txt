@@ -6,5 +6,6 @@ SciPy (BSD-3-Clause)
 soundfile (BSD-3-Clause)
 gTTS (MIT)
 python-sounddevice (MIT)
+subs_extract (MIT)
 
 See `NOTICE.txt` and `/third_party_licenses` for full license texts.
