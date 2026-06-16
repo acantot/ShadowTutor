@@ -1,0 +1,29 @@
+This project contains the following third-party software components:
+
+PySide6 (Qt for Python)
+Copyright (C) 2026 The Qt Company Ltd. and other contributors.
+Licensed under the LGPLv3.
+
+spaCy
+Copyright (C) 2016-2024 ExplosionAI GmbH, 2016 spaCy GmbH, 2015 Matthew Honnibal
+Licensed under the MIT License
+
+subs_extract
+Copyright (c) 2019 Nathan Vegdahl
+Licensed under the MIT License
+
+scipy
+Copyright (c) 2001-2002 Enthought, Inc. 2003, SciPy Developers
+Licensed under the BSD-3-Clause License
+
+python-sounddevice
+Copyright (c) 2015-2025 Matthias Geier
+Licensed under the MIT License
+
+soundfile
+Copyright (c) 2013, Bastian Bechtold
+Licensed under the BSD-3 Clause License
+
+gTTS
+Copyright © 2014-2024 Pierre Nicolas Durette
+Licensed under the MIT Clause License
