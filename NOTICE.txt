@@ -1,4 +1,4 @@
-This project contains the following third-party software components:
+This project contains the following third-party software and libraries:
 
 PySide6 (Qt for Python)
 Copyright (C) 2026 The Qt Company Ltd. and other contributors.
